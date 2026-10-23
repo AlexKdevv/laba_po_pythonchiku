@@ -244,3 +244,4 @@ print(poly2 - poly2) #sub
 print(poly2 - 5) #sub
 print(5 - poly2) #rsub
 print(poly2.der(3)) #der
+print(poly2.__repr__())
